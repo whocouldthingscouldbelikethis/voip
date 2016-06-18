@@ -1,0 +1,3 @@
+query( ) = { s.rval(4) } ;
+eval E[ # query( ) ] ;
+
